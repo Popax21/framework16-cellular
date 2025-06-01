@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FW16Cellular")(type "KiCad")(uri "${KIPRJMOD}/framework16-m2-cellular.kicad_sym")(options "")(descr ""))
+)

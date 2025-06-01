@@ -1,0 +1,4 @@
+*-backups
+*.bak
+fp-info-cache
+out
