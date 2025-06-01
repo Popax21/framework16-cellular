@@ -1,6 +1,6 @@
 # Framework Laptop 16 M.2 Cellular Modem Expansion Bay Module
 
-This repository holds the WIP design files for a module for the Framework Laptop 16's Expansion Bay allowing for the connection of a standard M.2 B-Key cellular modem.
+This repository holds the WIP design files for a module for the Framework Laptop 16's Expansion Bay allowing for the connection of a standard M.2 B-Key cellular modem, also featuring a microSIM connector for the insertion of a standard SIM card.
 It was designed for usage with Quectel RM50X / RM5X0-series 5G modules, but other 3.7V-tolerant modules are expected to work as well.
 
 > [!WARNING]
@@ -30,5 +30,4 @@ No pre-packaged schematics / Gerber files are available at the moment, but a GH 
 > If you still plan on ordering a PCB through e.g. JLCPCB, ensure that you enable Impedance Matching and specifically select stackup JLC041611H-3313 as part of the checkout process.
 > This stackup is required for the sensitive PCI-E / USB / RF signals to be properly impedance matched and not be distorted.
 
-This design uses modified versions of the template PCB and FX Beam connector symbol / footprint published by jyancat, found (here)[https://github.com/jyancat/ExpansionBay/tree/main/Electrical/KiCad_templates/Expansion_Bay]. 
-
+This design uses modified versions of the template PCB and FX Beam connector symbol / footprint published by jyancat, found [here](https://github.com/jyancat/ExpansionBay/tree/main/Electrical/KiCad_templates/Expansion_Bay).
