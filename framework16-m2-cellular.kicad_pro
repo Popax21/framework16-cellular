@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -58,7 +58,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|135000000|104250000|0a1a3f81-5f41-4ef5-a606-e8f4e3f63306|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|160586447|134536459|616cb28d-7629-4883-a012-2080cb0d3649|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -227,10 +236,6 @@
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.3,
-          "drill": 0.15
         },
         {
           "diameter": 0.6,
@@ -709,6 +714,7 @@
     ]
   ],
   "text_variables": {
-    "JLC_BOARD_TYPE": "JLC041611H-3313"
+    "JLC_BOARD_TYPE": "JLC041611H-3313",
+    "VERSION": "v1.1"
   }
 }
