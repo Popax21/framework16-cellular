@@ -16923,7 +16923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FW16Cellular:A1001WR-S-04P"
+		(property "Footprint" "FW16Cellular:AFC30-S04FCC-00"
 			(at 34.29 222.25 0)
 			(effects
 				(font
@@ -16950,7 +16950,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C371510"
+		(property "LCSC" "C395232"
 			(at 34.29 222.25 0)
 			(effects
 				(font
@@ -22810,7 +22810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "FW16Cellular:A1001WR-S-04P"
+		(property "Footprint" "FW16Cellular:AFC30-S04FCC-00"
 			(at 34.29 246.38 0)
 			(effects
 				(font
@@ -22837,7 +22837,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C371510"
+		(property "LCSC" "C395232"
 			(at 34.29 246.38 0)
 			(effects
 				(font
@@ -27632,7 +27632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4"
 			(at 358.14 36.83 0)
 			(effects
 				(font
@@ -27668,7 +27668,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C136294"
+		(property "LCSC" "C72494"
 			(at 358.14 36.83 0)
 			(effects
 				(font
@@ -29363,7 +29363,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4"
 			(at 378.46 55.88 0)
 			(effects
 				(font
@@ -29399,7 +29399,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C136294"
+		(property "LCSC" "C72494"
 			(at 378.46 55.88 0)
 			(effects
 				(font
