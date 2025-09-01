@@ -16876,7 +16876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "A1001WR-S-04P"
+		(property "Description" "AFC30-S04FCC-00"
 			(at 34.29 224.79 0)
 			(effects
 				(font
@@ -22763,7 +22763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "A1001WR-S-04P"
+		(property "Description" "AFC30-S04FCC-00"
 			(at 34.29 248.92 0)
 			(effects
 				(font
