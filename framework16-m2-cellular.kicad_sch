@@ -27380,16 +27380,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
-			(at 358.14 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C72494"
+		(property "LCSC" "C22383609"
 			(at 358.14 36.83 0)
 			(effects
 				(font
@@ -29111,16 +29102,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS" ""
-			(at 378.46 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C72494"
+		(property "LCSC" "C22383609"
 			(at 378.46 55.88 0)
 			(effects
 				(font
