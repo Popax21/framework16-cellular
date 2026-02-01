@@ -1,12 +1,17 @@
 # Framework Laptop 16 M.2 Cellular Modem Expansion Bay Module
 
+> [!IMPORTANT]
+> ### This design is still a work-in-progress, and should currently be considered non-functional!
+>
+> The current revision contained in this repository (v1.1) still has some glaring design defects, and as such will need at least one more revision to fully bug-fix.
+> As of now I am focusing on other projects, so there is no timeline for when development of the module will resume.
+
 This repository holds the WIP design files for a module for the Framework Laptop 16's Expansion Bay allowing for the connection of a standard M.2 B-Key cellular modem, also featuring a microSIM connector for the insertion of a standard SIM card.
 It was designed for usage with Quectel RM50X / RM5X0-series 5G modules, but other 3.7V-tolerant modules are expected to work as well.
 
 > [!WARNING]
 > This module provides the M.2 slot with a VCC of 3.7V, and not the standard 3.3V!
 > This is the recommended voltage of the Quectel modems the module is designed around, but you may have to adapt the schematic in case you want to use a different module.
-
 
 The module provides the M.2 slot with both a PCI-E x1 interface as well as an USB2 HS (max 480Mbps) interface, however routing priority has been given to the PCI-E lane, so the full bandwith may not be available over the USB port.
 Note that no USB3.x interface has been routed to the slot!
